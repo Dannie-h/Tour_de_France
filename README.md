@@ -34,7 +34,7 @@ To ensure data consistency and validity, I performed data cleaning and preparati
   
 #### 4. Data visualization
 I focused on creating clear and easy to follow visualizations to clearly communicate my findings.
-  ![TDF-Dashboard](TDF-dashboard.jpg)
+  ![TDF-Dashboard](TDF-Dashboard.jpg)
 
 Legend: the yellow jersey is offered to the overall leader of the race
 -	The green jersey (best sprinter) is offered to the rider who wins most points at sprints. In this visual I used it to emphasize the rider with most sprint wins.
